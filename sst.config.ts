@@ -4,7 +4,7 @@
 export default $config({
   app(input) {
     return {
-      name: "notes",
+      name: "MY_APP",
       removal: input?.stage === "production" ? "retain" : "remove",
       home: "aws",
     };

@@ -1,8 +1,8 @@
 {
-  "name": "@notes/functions",
+  "name": "@MY_APP/functions",
   "version": "0.0.0",
   "dependencies": {
-    "@notes/core": "*",
+    "@MY_APP/core": "*",
     "sst": "*"
   },
   "devDependencies": {

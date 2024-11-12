@@ -1,5 +1,5 @@
 {
-  "name": "@notes/core",
+  "name": "@MY_APP/core",
   "version": "0.0.0",
   "scripts": {
     "test": "sst shell vitest"

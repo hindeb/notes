@@ -1,8 +1,8 @@
 {
-  "name": "@notes/scripts",
+  "name": "@MY_APP/scripts",
   "version": "0.0.0",
   "dependencies": {
-    "@notes/core": "*",
+    "@MY_APP/core": "*",
     "sst": "*"
   },
   "scripts": {
